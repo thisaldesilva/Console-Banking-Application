@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\transaction.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\transaction.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\transaction.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\transaction.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\main.cpp(719): warning C4101: 'wacoount': unreferenced local variable
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\main.cpp(718): warning C4101: 'depoIndex': unreferenced local variable
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\main.cpp(720): warning C4101: 'daccount': unreferenced local variable
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\main.cpp(721): warning C4101: 'ammount': unreferenced local variable
+c:\acbt\2nd year subjects\oop with c++\bank\bankaccount\bankaccount_final\bankaccount_final\main.cpp(717): warning C4101: 'withIndex': unreferenced local variable
+  BankAccount_final.vcxproj -> C:\ACBT\2nd Year Subjects\OOP with C++\Bank\bankaccount\BankAccount_final\Debug\BankAccount_final.exe
+  BankAccount_final.vcxproj -> C:\ACBT\2nd Year Subjects\OOP with C++\Bank\bankaccount\BankAccount_final\Debug\BankAccount_final.pdb (Full PDB)
